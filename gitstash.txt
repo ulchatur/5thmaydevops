@@ -1,0 +1,2 @@
+This is another file for stash
+this help us to understand git stash command
