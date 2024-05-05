@@ -1,0 +1,1 @@
+This is new git reset file for git reset command
